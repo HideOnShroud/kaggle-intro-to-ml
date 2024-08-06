@@ -2,6 +2,8 @@
 
 This repository contains a series of Kaggle Notebooks created while progressing through the Kaggle Machine Learning course. These exercises are designed to provide hands-on experience and practical understanding of the key steps in a typical machine learning workflow.
 
+![Certificate](/Guga%20Natroshvili%20-%20Intro%20to%20Machine%20Learning.png)
+
 ## Table of Contents
 
 1. [Explore Your Data](#explore-your-data)
